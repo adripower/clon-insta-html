@@ -1,0 +1,180 @@
+
+
+
+ body,html{
+    background: white ;
+    margin: 0px;
+    padding: 0%;
+}
+   
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+
+#titulo {
+        height: 100%;
+        
+        width:100%;
+        padding: 0px;
+     
+}
+    
+
+
+#titulo_1{
+    margin: auto;
+    text-align: left;
+    width: 500px;
+    height: 140%;
+   
+   
+
+   
+    
+}
+
+#marco_principal{
+    background: gray;
+    margin: 0%;
+    height: auto;
+    padding: 0%;
+    display: flex;}
+    
+#portada{
+    margin:  auto;
+    background: white; 
+    width:500px;
+    padding-top: 11px;
+    display:inline-block;
+    margin-bottom: 50px;
+    margin-top: 80px;
+}
+#marco_titulo_foto{
+    
+    height: 20px;
+   
+
+}
+#marco_titulo{
+    padding: 8px;
+    float: left; 
+    text-align: left; 
+    height: auto;
+    
+}
+#marco_numero{
+    
+    padding: 25px;
+    float: right; 
+    height: auto;
+    color: gray;
+    }
+#descripcion_foto{
+    
+    padding: 15px;
+
+    }
+
+
+
+
+
+img{
+    width: 500px;
+    margin: auto;
+    display: block;
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* body{
+    background-color: rgb(215, 215, 215);
+}
+#titulo{
+    text-align: center;
+    background-color: white;
+    height: 80px;
+   
+    margin-bottom: 40px;
+    border: 10px solid white;
+    
+    
+    
+}
+#portada{
+    width:700px;
+    margin: auto;
+    background-color:white;
+
+}
+#marco_titulo_foto{
+    background-color: aqua;
+    height: 25px;
+
+}
+#marco_titulo{
+    background-color: red;
+    float: left; 
+    text-align: left; 
+    height: 20px;
+}
+
+#nombre_foto{
+    background: blue;
+    width: 100px;
+    height: 50px;
+    float: left;
+    text-align: left;
+}
+#numero{
+    background-color: rgb(153, 255, 0);
+    text-align: right;
+    height: 20px;
+    
+   
+}
+img{
+    width: 700px;
+    margin: auto;
+    display: block;
+}
+    */
